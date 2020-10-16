@@ -1,7 +1,7 @@
 package eu.yalacirodev.sokoban;
 
 
-import android.support.v4.view.MotionEventCompat;
+import androidx.core.view.MotionEventCompat;
 import android.view.MotionEvent;
 
 /**
