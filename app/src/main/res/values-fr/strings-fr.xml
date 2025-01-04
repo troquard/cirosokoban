@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">CiroSokoban</string>
+    <string name="text_really_quit">Quitter?</string>
+    <string name="level">Niveau</string>
+    <string name="text_select_level">Choisis un niveau</string>
+    <string name="text_instructions">Comment jouer</string>
+    <string name="action_solve">Résoudre</string>
+    <string name="action_reset">Recommencer</string>
+    <string name="action_zoom">Zoom +</string>
+    <string name="action_unzoom">Zoom -</string>
+    <string name="action_instructions">Règles du jeu</string>
+    <string name="text_title_solving">Je cherche…</string>
+    <string name="text_message_solving">"Je cherche une solution… Attends un peu."</string>
+    <string name="text_title_solved">"J\'ai trouvé"</string>
+    <string name="text_message_solved">Je peux te montrer une solution.</string>
+    <string name="text_title_no_solution">"Il n\'y a pas de solution"</string>
+    <string name="text_message_no_solution">Rien à faire. Tu es dans le pétrin.</string>
+    <string name="text_icon_showme">Montre moi</string>
+    <string name="text_icon_cancel">Annuler</string>
+    <string name="text_icon_sad_ok">"OK :-("</string>
+    <string name="text_icon_no_thanks">Non merci</string>
+    <string name="text_game_rules">\nCiro c\'est lui\n"      (\\__/) \n      ( \'.\')\n      c(\")(\")"
+                    \n\n\nCiro doit placer toutes les pierres\n"       00000 \n      0000000\n       00000 "
+                    \n\nsur une cible\n"       \\   / \n      |- X -|\n       /   \\ "
+                    \n\n\nQuand une pierre est sur une cible, elle ressemble à ça
+                    \n"       00000 \n      0- X -0\n       00000 "
+                    \n\nQuand toutes les pierres sont sur une cible, le niveau est gagné.
+                    Et Ciro prend son air joyeux.\n"      (\\___/)\n      (=^.^=)\n      (\") (\")"
+                    \n\n\nCiro est un lapin intelligent.
+                    En utilisant le menu, tu peux lui demander s\'il est encore possible de gagner à partir de la position courante.
+                    \n\nSi c\'est possible, Ciro peut même te montrer une solution.
+                    \n\nLa sélection des niveaux dans le menu se rappellera des niveaux que tu as déjà finis.
+                    Le niveau apparaîtra dans une couleur différente et le meilleur nombre de coups que tu auras faits pour gagner sera marqué.
+                    \n\nMais si tu demandes à Ciro de te guider vers la solution, le niveau ne sera pas marqué comme gagné.
+                    Il faudra finir le niveau par toi-même.\n</string>
+    <string name="looking_at_solutions_with">Je cherche une solution avec</string>
+    <string name="finished">GAGNÉ</string>
+    <string name="steps">pas</string>
+    <string name="pushes">poussées</string>
+</resources>

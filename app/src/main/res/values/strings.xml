@@ -1,0 +1,40 @@
+<resources>
+    <string name="text_really_quit">Really quit?</string>
+    <string name="level">Level</string>
+    <string name="action_solve">Solve</string>
+    <string name="action_reset">Reset</string>
+    <string name="action_zoom">Zoom +</string>
+    <string name="action_unzoom">Zoom -</string>
+    <string name="action_instructions">Games rules</string>
+    <string name="app_name">Ciro Sokoban</string>
+    <string name="text_icon_cancel">Cancel</string>
+    <string name="text_icon_sad_ok">"OK :-("</string>
+    <string name="text_icon_showme">Show me</string>
+    <string name="text_icon_no_thanks">No, thanks</string>
+    <string name="text_message_no_solution">"It looks like you\'ve put yourself in too much trouble."</string>
+    <string name="text_message_solved">I can show you a solution.</string>
+    <string name="text_message_solving">"I\'m solving… Just wait."</string>
+    <string name="text_select_level">Select a level</string>
+    <string name="text_instructions">Game rules</string>
+    <string name="text_game_rules">\nThis is Ciro\n"      (\\__/) \n      ( \'.\')\n      c(\")(\")"
+                    \n\n\nCiro must move every boulder\n"       00000 \n      0000000\n       00000 "
+                    \n\non a target\n"       \\   / \n      |- X -|\n       /   \\ "
+                    \n\n\nWhen a boulder is on a target, it looks like that
+                    \n"       00000 \n      0- X -0\n       00000 "
+                    \n\nWhen every boulder is on a target, the level is won.
+                    And Ciro looks happy.\n"      (\\___/)\n      (=^.^=)\n      (\") (\")"
+                    \n\n\nCiro is a smart bunny.
+                    Using the menu, you can ask him if it is still possible to win from the current position.
+                    \n\nIf it is possible, Ciro can even show you a solution.
+                    \n\nThe level selection in the menu will remember which levels you already finished.
+                    It will appear in a different color and it will mark the best number of moves you did to win.
+                    \n\nBut if you asked Ciro to guide you towards the solution, the level will not be marked as solved.
+                    You will have to finish the level all by yourself.\n</string>
+    <string name="text_title_no_solution">"There\'s no solution"</string>
+    <string name="text_title_solved">Solved</string>
+    <string name="text_title_solving">Solving…</string>
+    <string name="looking_at_solutions_with">Looking at solutions with</string>
+    <string name="finished">FINISHED</string>
+    <string name="steps">steps</string>
+    <string name="pushes">pushes</string>
+</resources>

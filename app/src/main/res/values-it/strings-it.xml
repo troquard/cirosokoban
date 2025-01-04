@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">CiroSokoban</string>
+    <string name="text_really_quit">Vuoi davvero uscire?</string>
+    <string name="level">Livello</string>
+    <string name="text_select_level">Seleziona un livello</string>
+    <string name="text_instructions">Come si gioca</string>
+    <string name="action_solve">Risolvere</string>
+    <string name="action_reset">Resettare</string>
+    <string name="action_zoom">Zoom +</string>
+    <string name="action_unzoom">Zoom -</string>
+    <string name="action_instructions">Come si gioca</string>
+    <string name="text_title_solving">Cercando…</string>
+    <string name="text_message_solving">"Sto cercando una soluzione… Aspetta un attimo."</string>
+    <string name="text_title_solved">Trovato</string>
+    <string name="text_message_solved">Ti posso mostrare una soluzione.</string>
+    <string name="text_title_no_solution">"Non c\'è una soluzione"</string>
+    <string name="text_message_no_solution">Mi pare che tu sia nei guai.</string>
+    <string name="text_icon_showme">Mostrami</string>
+    <string name="text_icon_cancel">Cancella</string>
+    <string name="text_icon_sad_ok">"OK :-("</string>
+    <string name="text_icon_no_thanks">No grazie</string>
+    <string name="text_game_rules">\nLui è Ciro\n"      (\\__/) \n      ( \'.\')\n      c(\")(\")"
+                    \n\n\nCiro deve spostare tutti i sassi\n"       00000 \n      0000000\n       00000 "
+                    \n\nsu un obiettivo\n"       \\   / \n      |- X -|\n       /   \\ "
+                    \n\n\nQuando un sasso sta su un obiettivo, appare così
+                    \n"       00000 \n      0- X -0\n       00000 "
+                    \n\nQuando tutti i sassi sono su un obiettivo, il livello è compiuto.
+                    E Ciro è felice.\n"      (\\___/)\n      (=^.^=)\n      (\") (\")"
+                    \n\n\nCiro è un coniglio intelligente.
+                    Usando il menu, puoi chiedergli se è ancora possibile vincere dalla posizione corrente.
+                    \n\nSe è possibile, Ciro può pure mostrarti una soluzione.
+                    \n\nLa selezione dei livelli nel menu si ricorderà dei livelli che hai già compiuti.
+                    Il livello apparirà con un colore diverso e il migliore numero di mosse che avrai fatto per vincere sarà segnato a fianco.
+                    \n\nPerò se chiedi a Ciro di guidarti verso la soluzione, il livello non sarà segnato come compiuto.
+                    Ti toccherà finirlo senza aiuto.\n</string>
+    <string name="looking_at_solutions_with">Valutando soluzioni con</string>
+    <string name="finished">FINITO</string>
+    <string name="steps">mosse</string>
+    <string name="pushes">spinte</string>
+</resources>
